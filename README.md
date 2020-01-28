@@ -6,7 +6,7 @@ Tu dois développer une micro-application qui affiche des produits (Exemple : de
 
 ## Exemple Front : 
 
-### Index d'un produit
+### Index des produits
 
 
 ![Image](index.png)
